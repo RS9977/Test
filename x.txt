@@ -1,3 +1,3 @@
 
 HELLO THERE!
-I want to check I can commit the last lines!
+I want to check if I can commit the last line!
